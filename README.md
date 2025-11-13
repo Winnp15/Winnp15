@@ -4,6 +4,17 @@ Hi, my name is Papinwit Reungpum, or you can call me Winston .<br>I'm 11th grade
 I believe in using emotional intelligence to understand people and make teamwork smoother and more enjoyable. Outside of coding, I love watching movies and listening to music to recharge my creativity.
 
 “Imagination is more important than knowledge.” – Albert Einstein
+<div align="center">
+  <img height="200" src="https://i0.wp.com/www.dogwonder.co.uk/wp-content/uploads/2009/12/tumblr_ku2pvuJkJG1qz9qooo1_r1_400.gif?resize=320%2C320"  />
+
+
+
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l4oargy3nswvrbqrhxzskaap5m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
 
 ## 🌐 Socials:
@@ -18,16 +29,6 @@ I believe in using emotional intelligence to understand people and make teamwork
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Winnp15&icon=0&color=0)](https://visitcount.itsvg.in)
-<div align="center">
-  <img height="200" src="https://i0.wp.com/www.dogwonder.co.uk/wp-content/uploads/2009/12/tumblr_ku2pvuJkJG1qz9qooo1_r1_400.gif?resize=320%2C320"  />
 
-
-
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l4oargy3nswvrbqrhxzskaap5m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
-  </a>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
